@@ -83,14 +83,13 @@ sequence models (RNN, BiLSTM, GRU). It includes:
 ------------------------------------------------------------------------
 
 
-## License & Citation
+## License
 
 Released under MIT License.
 
 ------------------------------------------------------------------------
 
-## Contact
+## Author
 
 **Manpreet Singh**
-
-Feel free to open issues or suggestions.
+B.Sc. Artificial Intelligence and Data Science
