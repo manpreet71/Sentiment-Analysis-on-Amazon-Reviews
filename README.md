@@ -27,7 +27,7 @@ sequence models (RNN, BiLSTM, GRU). It includes:
 
 ## Demo Video
 
-👉 **[Watch the Demo]([https://drive.google.com/file/d/1D5gFXSgWwrDHuKLP6m-Kz7PXOqT931f5/view?usp=sharing](https://drive.google.com/file/d/1vix-MS7iSc_ecDmxWiHFyOdSPnPkE5mf/view?usp=sharing))**  
+👉 **[Watch the Demo](https://drive.google.com/file/d/1vix-MS7iSc_ecDmxWiHFyOdSPnPkE5mf/view?usp=sharing)**  
 
 ------------------------------------------------------------------------
 
