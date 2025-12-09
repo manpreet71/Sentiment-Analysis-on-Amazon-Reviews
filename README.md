@@ -92,4 +92,5 @@ Released under MIT License.
 ## Author
 
 **Manpreet Singh**
-B.Sc. Artificial Intelligence and Data Science
+
+(B.Sc. Artificial Intelligence and Data Science)
