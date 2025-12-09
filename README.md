@@ -10,21 +10,6 @@ MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ------------------------------------------------------------------------
 
-## Table of contents
-
--   [About](#about)\
--   [Highlights](#highlights)\
--   [Repository structure](#repository-structure)\
--   [Quick start](#quick-start)\
--   [What's inside / How it works](#whats-inside--how-it-works)\
--   [Files you should know](#files-you-should-know)\
--   [How to reproduce results](#how-to-reproduce-results)\
--   [Extend / Improve](#extend--improve)\
--   [Troubleshooting](#troubleshooting)\
--   [License & Citation](#license--citation)\
--   [Contact](#contact)
-
-------------------------------------------------------------------------
 
 ## About
 
@@ -59,28 +44,10 @@ sequence models (RNN, BiLSTM, GRU). It includes:
     ├─ main.py
     ├─ index.html
     ├─ tokenizer.pkl
-    └─ (models, data, outputs)
+    └─ Dataset Download.txt
 
 ------------------------------------------------------------------------
 
-## Quick start
-
-### Create environment
-
-    python -m venv venv
-    source venv/bin/activate  # or venv\Scripts\activate on Windows
-    pip install -U pip
-    pip install -r requirements.txt
-
-### Run the notebook
-
-    jupyter notebook
-
-### Run the demo app
-
-    python main.py
-
-------------------------------------------------------------------------
 
 ## What's inside / How it works
 
@@ -109,22 +76,6 @@ sequence models (RNN, BiLSTM, GRU). It includes:
 
 ------------------------------------------------------------------------
 
-## Extend / Improve
-
--   Add Dockerfile\
--   Add Streamlit/Gradio UI\
--   Add transformers (BERT, DistilBERT)\
--   Add CI + tests
-
-------------------------------------------------------------------------
-
-## Troubleshooting
-
--   **Tokenizer mismatch** → ensure same vocab\
--   **Model shape issues** → check padding length\
--   **Slow training** → use GRU or GPU
-
-------------------------------------------------------------------------
 
 ## License & Citation
 
